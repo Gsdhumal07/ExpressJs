@@ -1,0 +1,23 @@
+{
+  "name": "expresslearning",
+  "version": "1.0.0",
+  "description": "This is the module created for learning and exploring Node js and Expressjs ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Gsdhumal07/ExpressJs.git"
+  },
+  "author": "Ganesh Dhumal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gsdhumal07/ExpressJs/issues"
+  },
+  "homepage": "https://github.com/Gsdhumal07/ExpressJs#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "pug": "^3.0.2"
+  }
+}
